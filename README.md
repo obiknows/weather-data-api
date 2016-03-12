@@ -1,4 +1,4 @@
-:umbrella: :cloud: weather-data-api :cloud: :umbrella:
+:umbrella: weather-data-api :umbrella:
 ==========================================
 
 
